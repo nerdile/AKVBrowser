@@ -93,5 +93,10 @@ namespace SecretsGui.Views
                     await HandleNodeClick(secretsTree.SelectedNode);
             });
         }
+
+        private async void toolsNewConnection_Click(object sender, EventArgs e)
+        {
+            await OnError.ShowMessageBox(Program.StartNewConnection);
+        }
     }
 }
