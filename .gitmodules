@@ -1,0 +1,8 @@
+[submodule "NerdileSnippets.WinFormsHelpers"]
+	path = NerdileSnippets.WinFormsHelpers
+	url = https://github.com/nerdile/NerdileSnippets.WinFormsHelpers.git
+	branch = master
+[submodule "NerdileSnippets.PasswordGenerator"]
+	path = NerdileSnippets.PasswordGenerator
+	url = https://github.com/nerdile/NerdileSnippets.PasswordGenerator.git
+	branch = master
